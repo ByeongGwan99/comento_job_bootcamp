@@ -12,3 +12,8 @@
 - ORM : MyBatis
 
 ## 🖥 주요화면
+
+### MovieVO.java
+![MovieVO](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/a7750c61-f9c4-4d87-b5b3-cf9fb96a3f80)
+
+### 웹 실행화면
