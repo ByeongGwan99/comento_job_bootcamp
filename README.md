@@ -3,6 +3,8 @@
 
 ## 💻 1주차 과제
 
+개발환경 셋팅
+
 ## ⚙ 개발 환경
 
 - JDK 1.8
@@ -16,4 +18,5 @@
 ### MovieVO.java
 ![MovieVO](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/a7750c61-f9c4-4d87-b5b3-cf9fb96a3f80)
 
-### 웹 실행화면
+### 웹 화면
+![캡처](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/434ba045-b32f-45c0-b7da-493b74fd01e5)
