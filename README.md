@@ -1,9 +1,6 @@
 # comento_job_bootcamp
 코맨토 백엔드 직무 부트캠프
 
-## 💻 1주차 과제
-
-개발환경 셋팅
 
 ## ⚙ 개발 환경
 
@@ -12,6 +9,10 @@
 - DataBase : mariaDB, mySQL WorkBench
 - AWS : TomCat
 - ORM : MyBatis
+
+## 💻 1주차 과제
+
+개발환경 셋팅
 
 ## 🖥 주요화면
 
