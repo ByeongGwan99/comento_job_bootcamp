@@ -21,3 +21,11 @@
 
 ### 웹 화면
 ![캡처](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/434ba045-b32f-45c0-b7da-493b74fd01e5)
+
+## 💻 2주차 과제
+
+° API 가이드 작성 완료
+
+° REST API 학습 완료
+
+° HTTP 통신 학습 완료
