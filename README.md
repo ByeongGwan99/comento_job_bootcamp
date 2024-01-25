@@ -33,6 +33,7 @@
 ## 💻 3주차 과제
 
 1) 스트링부트 환경 셋팅
+ 
   ![스트링부트 환경셋팅](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/cd9b6886-feec-4bf2-aa8a-bba8c1aced79) 
 
 3) 통계 API(SW활용현황)을 위한 DB,TABLE 생성
