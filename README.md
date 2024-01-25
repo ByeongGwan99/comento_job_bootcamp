@@ -36,7 +36,10 @@
  
   ![스트링부트 환경셋팅](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/cd9b6886-feec-4bf2-aa8a-bba8c1aced79) 
 
-3) 통계 API(SW활용현황)을 위한 DB,TABLE 생성
+2) 통계 API(SW활용현황)을 위한 DB,TABLE 생성
 
-4) 스프링부트, mybatis, mariadb 연동
+![req](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/872b2718-c794-4ca1-85c1-e6d5ceea15b3)
+
+
+3) 스프링부트, mybatis, mariadb 연동
    
