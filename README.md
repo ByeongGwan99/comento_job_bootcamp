@@ -40,6 +40,7 @@
 
 ![req](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/872b2718-c794-4ca1-85c1-e6d5ceea15b3)
 
+![reqcode](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/4ed2f7b5-fba9-4a19-8b5c-74817b3dc9c5)
 
 3) 스프링부트, mybatis, mariadb 연동
    
