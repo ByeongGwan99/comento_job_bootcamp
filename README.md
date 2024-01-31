@@ -48,6 +48,29 @@
 
 ## 💻 4주차 과제
 
+### 3차과제에서 작성한 API와 SQL(5가지)를 중심으로 API 개발
+
 1) 월별 접속자 수
+ 
+ ![월별](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/4e7b0f61-cc6e-4922-a1e7-6b5806dd98b3)
+
+2) 일자별 접속자 수
+
+ ![일자](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/936fbbdf-f624-4200-9d8b-86e09396a73f)
+
+3) 평균 하루 로그인 수
+
+![평균](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/04aaa496-e22c-40c1-8d13-55a336ee6110)
+
+4) 휴일을 제외한 로그인 수
+
+![휴일](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/fda7d57d-ddb3-429d-ab19-50a0bb27fff9)
+
+5) 부서별 월별 로그인 수
+
+![부서별](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/4052a4c8-63f3-4200-a558-f21f18806256)
+
+### 2차과제 API가이드 문서 보완하여 완성
+
 
    
