@@ -45,3 +45,9 @@
 3) 스프링부트, mybatis, mariadb 연동
    
 ![mybits](https://github.com/ByeongGwan99/comento_job_bootcamp/assets/132625721/23600ffc-fa1e-47a9-a575-f2ebeec11e8a)
+
+## 💻 4주차 과제
+
+1) 월별 접속자 수
+
+   
